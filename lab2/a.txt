@@ -1,0 +1,2592 @@
+VCD info: dumpfile alu.vcd opened for output.
+***************************************************
+*             PATTERN RESULT TABLE                *
+***************************************************
+* PATTERN *              Result             * ZCV *
+***************************************************
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+SLT DEBUG:
+src1 = 00000000, src2 = 0fffffff
+res  = 7530eca9
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 0fffffff
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 0fffffff
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 0fffffff
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 0fffffff
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 0fffffff
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 0fffffff
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+* No. 8 error!                                    *
+* Correct result: 00000001     Correct ZCV: 000   *
+* Your result: 00000000        Your ZCV: 100      *
+***************************************************
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=1, b_in=1, cin=0, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=0, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=0, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=0, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=1, result=0, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=0, cin=1, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=1
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=0, b_in=1, cin=0, result=1, cout=0
+DEBUG 1bit SUB: Ainvert=0, Binvert=1, a_in=1, b_in=1, cin=0, result=0, cout=1
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 000000ff
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000000, src2 = 00000001
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+* No.18 error!                                    *
+* Correct result: 00000001     Correct ZCV: 000   *
+* Your result: 00000000        Your ZCV: 100      *
+***************************************************
+SLT DEBUG:
+src1 = 00000000, src2 = ffffffff
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = 00000001, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+SLT DEBUG:
+src1 = ffffffff, src2 = 00000000
+res  = 00000000
+res[31] = 0, overflow = 0
+set = 0
+testbench.v:91: $finish called at 415000 (1ps)

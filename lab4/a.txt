@@ -1,0 +1,1 @@
+ALU.v ALU_Ctrl.v Adder.v Data_Memory.v Decoder.v Instruction_Memory.v MUX_2to1.v Pipe_CPU.v Pipe_Reg.v ProgramCounter.v Reg_File.v Shift_Left_Two_32.v Sign_Extend.v
